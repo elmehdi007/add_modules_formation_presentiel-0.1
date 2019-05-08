@@ -1,0 +1,9 @@
+.hidden {
+    display: none!important;
+    visibility: hidden!important;
+}
+
+.container_module_formation .fa{
+    color:#28a597;
+}
+
